@@ -5,4 +5,5 @@
 
 
 ## References:
-- This repo contains original work by Jan Pearce and ASCII Art modified from https://www.asciiart.eu/animals/dogs
+- This repo contains original work by Jan Pearce 
+- and ASCII Art by Joan Stark modified from https://www.asciiart.eu/animals/dogs
