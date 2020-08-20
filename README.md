@@ -2,6 +2,7 @@
 ## Code designed to introduce classes in C++
 
 ## Author: Jan Pearce, Berea College
+### Code editors names: _FIXME_
 
 
 ## References:
