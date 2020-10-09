@@ -47,7 +47,7 @@ public:                    // begin public section
 	}
 private:                   // begin private section
 	string dogName;        // private member variable
-}; //don't forget semi-colon with C++ claasses!!
+}; //don't forget semi-colon with C++ classes!!
 
 
 int main(){
